@@ -1,0 +1,10 @@
+{
+    "name": "task/task3",
+    "type": "project",
+    "description": "Second task",
+    "autoload": {
+        "classmap":[
+            "./"
+        ]
+    }
+}
